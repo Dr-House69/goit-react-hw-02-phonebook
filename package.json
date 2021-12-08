@@ -2,7 +2,7 @@
   "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Dr-House69/goit-react-hw-02-phonebook",
+  "homepage": "https://dr-house69.github.io/goit-react-hw-02-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dr-house69.github.io/goit-react-hw-02-phonebook"
+    "url": "git+https://github.com/Dr-House69/goit-react-hw-02-phonebook.git"
   },
   "scripts": {
     "start": "react-scripts start",
