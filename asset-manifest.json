@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dr-House69/goit-react-hw-02-phonebook/static/css/main.a617e044.chunk.css",
+    "main.js": "/Dr-House69/goit-react-hw-02-phonebook/static/js/main.47f56aef.chunk.js",
+    "main.js.map": "/Dr-House69/goit-react-hw-02-phonebook/static/js/main.47f56aef.chunk.js.map",
+    "runtime-main.js": "/Dr-House69/goit-react-hw-02-phonebook/static/js/runtime-main.44b876be.js",
+    "runtime-main.js.map": "/Dr-House69/goit-react-hw-02-phonebook/static/js/runtime-main.44b876be.js.map",
+    "static/js/2.72dc019e.chunk.js": "/Dr-House69/goit-react-hw-02-phonebook/static/js/2.72dc019e.chunk.js",
+    "static/js/2.72dc019e.chunk.js.map": "/Dr-House69/goit-react-hw-02-phonebook/static/js/2.72dc019e.chunk.js.map",
+    "static/js/3.034872d7.chunk.js": "/Dr-House69/goit-react-hw-02-phonebook/static/js/3.034872d7.chunk.js",
+    "static/js/3.034872d7.chunk.js.map": "/Dr-House69/goit-react-hw-02-phonebook/static/js/3.034872d7.chunk.js.map",
+    "index.html": "/Dr-House69/goit-react-hw-02-phonebook/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Dr-House69/goit-react-hw-02-phonebook/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.72dc019e.chunk.js.LICENSE.txt": "/Dr-House69/goit-react-hw-02-phonebook/static/js/2.72dc019e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Dr-House69/goit-react-hw-02-phonebook/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44b876be.js",
+    "static/js/2.72dc019e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.47f56aef.chunk.js"
+  ]
+}
